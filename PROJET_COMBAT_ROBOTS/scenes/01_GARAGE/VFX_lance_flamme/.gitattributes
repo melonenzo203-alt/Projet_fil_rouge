@@ -2,3 +2,6 @@ scenes/01_GARAGE/VFX_lance_flamme/Nouveau[[:space:]]dossier.zip filter=lfs diff=
 Nouveau[[:space:]]dossier.zip filter=lfs diff=lfs merge=lfs -text
 Nouveau_dossier.zip filter=lfs diff=lfs merge=lfs -text
 VFX.zip filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+SC_VFX_arene_lance_flamme_V1.blend filter=lfs diff=lfs merge=lfs -text
