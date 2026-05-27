@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcx"/>
+  <time Range="250000-280000"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>C:/Users/melon/Desktop/Projet_fil_rouge/PROJET_COMBAT_ROBOTS/scenes/02_USINE/Enzo.m/SC_MASH_DO_NOT_TOUCHmb.mb</extra>
+  <extra>maya 2025</extra>
+  <extra>melon</extra>
+  <Channels>
+    <channel0 ChannelName="MASH5.inPositionPP" ChannelType="DoubleVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250000" EndTime="280000"/>
+  </Channels>
+</Autodesk_Cache_File>
