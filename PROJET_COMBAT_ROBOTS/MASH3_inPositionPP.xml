@@ -8,6 +8,6 @@
   <extra>maya 2025</extra>
   <extra>melon</extra>
   <Channels>
-    <channel0 ChannelName="MASH5.inPositionPP" ChannelType="DoubleVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250000" EndTime="280000"/>
+    <channel0 ChannelName="MASH3.inPositionPP" ChannelType="DoubleVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250000" EndTime="280000"/>
   </Channels>
 </Autodesk_Cache_File>
